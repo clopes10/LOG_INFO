@@ -10,5 +10,4 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/cicero_lopes_fatec_sp_gov_br
 https://github.com/clopes10/LOG_INFO/blob/main/TrabalhoInfo2.pbix
 
 
-
  
