@@ -8,8 +8,9 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/cicero_lopes_fatec_sp_gov_br
 ## Terceira Atividade: Quantidade de Alunos Estrangeiros
 https://github.com/clopes10/LOG_INFO/blob/main/Qtde%20Alunos%20Estrang.%20Nacionalidade_2%C2%B0%20Semestre%202023%20.xlsx
 ## Quarta Atividade: Power BI: Usando dados abertos.
-![image](https://github.com/user-attachments/assets/e2237eae-1c48-4252-9b3b-43b3e4962a68)
 https://github.com/clopes10/LOG_INFO/blob/main/TrabalhoInfo2.pbix
+![image](https://github.com/user-attachments/assets/e2237eae-1c48-4252-9b3b-43b3e4962a68)
+
 
 
  
