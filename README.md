@@ -12,6 +12,8 @@ https://github.com/clopes10/LOG_INFO/blob/main/TrabalhoInfo2.pbix
 ![image](https://github.com/user-attachments/assets/e2237eae-1c48-4252-9b3b-43b3e4962a68)
 ## Quinta Atividade: Usando dados abertos.
 [Quinta atividade git.pptx](https://github.com/user-attachments/files/19713204/Quinta.atividade.git.pptx)
+![image](https://github.com/user-attachments/assets/eac76d33-cf65-4ceb-8819-5228aea4a179)
+
 
 
 
