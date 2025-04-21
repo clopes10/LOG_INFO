@@ -11,7 +11,8 @@ APRENDIZADO - INFORMÁTICA
 ## Quarta Atividade: Power BI: Usando dados abertos.
 ![image](https://github.com/user-attachments/assets/e2237eae-1c48-4252-9b3b-43b3e4962a68)
 ## Quinta Atividade: Usando dados abertos.
-![image](https://github.com/user-attachments/assets/51abe884-2451-4267-9731-c1fd4f79e74d)
+![image](https://github.com/user-attachments/assets/f1279196-c028-4061-88c4-90998b7600b7)
+
 
 
 
